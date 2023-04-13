@@ -1,0 +1,8 @@
+{
+    "devDependencies": {
+        "serverless-offline": "^12.0.4"
+    },
+    "dependencies": {
+        "serverless-postgres": "^2.0.2"
+    }
+}
